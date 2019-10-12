@@ -4,6 +4,10 @@ https://www.amazon.co.jp/dp/4130626183
 解析力学・量子論 須藤 靖 東京大学出版会 2008
 https://www.amazon.co.jp/dp/4130626108
 
+須藤 靖
+http://www-utap.phys.s.u-tokyo.ac.jp/~suto/
+https://researchmap.jp/read0180639/
+
 初版　目次
 http://www.utp.or.jp/book/b305833.html
 第二版　目次（章名は同じ）
