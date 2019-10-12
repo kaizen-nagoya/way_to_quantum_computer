@@ -17,7 +17,9 @@ https://www.shi-ho-do.com/edit_html/14983.htm
 　Wienのスペクトル式の1つの改良について / Max Planck著 ; 辻哲夫　訳
 　正常スペクトルにおけるエネルギー分布の法則の理論 / Max Planck; 辻哲夫　訳
 　正常スペクトル中のエネルギー分布の法則について / Max Planck; 辻哲夫　訳
+
 >説明歌　「熱および光に対する物体の輻射」と吸収能力関係
+
 https://www.amazon.co.jp/dp/B000JA33GO/
 https://bookmeter.com/books/1704261
 
@@ -30,6 +32,12 @@ https://bookmeter.com/books/1704261
 　輻射の本質と構造に関するわれわれの見解の発展について / 上川友好　訳
 　量子論による輻射の放出と吸収 / 上川友好　訳
 　輻射の量子論 / 上川友好訳
+ 
+ >説明歌　量子論。光と輻射Planckの仮説展開Einstein
+
+https://www.amazon.co.jp/dp/B000JA2X2O/
+https://bookmeter.com/books/1600178
+
 
 第03巻　前期量子論　
 
@@ -39,6 +47,12 @@ https://bookmeter.com/books/1704261
 　スペクトル線の量子論 / A.Sommerfeld ; 及川浩　訳
 　線スペクトルの量子論について / N.Bohr; 荒牧正也, 及川浩　訳
 　輻射の多重周期軌道による吸収, 並びにその対応原理およびRayleigh-Jeansの法則との関係 / J.H.Van Vleck ; 後藤順子　訳
+ 
+ >説明歌　WilsonとSommerfeld、Ehrenfest、Bohr、Vleck、石原純　
+
+https://www.amazon.co.jp/dp/B000JA2C2K/
+https://bookmeter.com/books/1297512
+
 
 第04巻　相対論
 
@@ -51,7 +65,9 @@ https://bookmeter.com/books/1704261
 　空間と時間 = Raum und Zeit / H. Minkowski ; 上川友好　訳
 　物質とエネルギーに関する基本法則の一修正 = A revision of the fundamental laws of matter and energy / Gilbert N. Lewis ; 上川友好　訳
 　相対性原理と非Newton力学 = The principle of relativity, and non-Newtonian mechanics / Gilbert N. Lewis and Richard C. Tolman ; 上川友好　訳
+ 
 > 説明歌　空間と時間、物体慣性の電子力学実験測定
+
 https://www.amazon.co.jp/dp/4486007654
 https://bookmeter.com/books/1002768
 
