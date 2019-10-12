@@ -103,3 +103,5 @@ http://www.phys.cs.is.nagoya-u.ac.jp/~tanimura/class/index.html
 https://eman-physics.net/analytic/contents.html
 
 
+ようこそ物理の部屋へ!　　教育を考える会
+http://education.sakura.ne.jp/phmain.htm
