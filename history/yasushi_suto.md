@@ -8,6 +8,9 @@ https://www.amazon.co.jp/dp/4130626108
 http://www-utap.phys.s.u-tokyo.ac.jp/~suto/
 https://researchmap.jp/read0180639/
 
+一般相対論と天文学 須藤 靖
+https://www.youtube.com/watch?v=-okWNnp0g5U
+
 初版　目次
 http://www.utp.or.jp/book/b305833.html
 https://honto.jp/netstore/pd-contents_0603037726.html
