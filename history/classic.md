@@ -17,6 +17,10 @@ https://www.shi-ho-do.com/edit_html/14983.htm
 　Wienのスペクトル式の1つの改良について / Max Planck著 ; 辻哲夫　訳
 　正常スペクトルにおけるエネルギー分布の法則の理論 / Max Planck; 辻哲夫　訳
 　正常スペクトル中のエネルギー分布の法則について / Max Planck; 辻哲夫　訳
+>説明歌　「熱および光に対する物体の輻射」と吸収能力関係
+https://www.amazon.co.jp/dp/B000JA33GO/
+https://bookmeter.com/books/1704261
+
 第02巻　光量子論　アインシュタイン　
 
 　光の発生と変脱とに関するひとつの発見法的観点について / 高田誠二　訳
@@ -26,6 +30,7 @@ https://www.shi-ho-do.com/edit_html/14983.htm
 　輻射の本質と構造に関するわれわれの見解の発展について / 上川友好　訳
 　量子論による輻射の放出と吸収 / 上川友好　訳
 　輻射の量子論 / 上川友好訳
+
 第03巻　前期量子論　
 
 　輻射と線スペクトルの量子論 / W.Wilson ; 荒川紘　訳
@@ -34,6 +39,7 @@ https://www.shi-ho-do.com/edit_html/14983.htm
 　スペクトル線の量子論 / A.Sommerfeld ; 及川浩　訳
 　線スペクトルの量子論について / N.Bohr; 荒牧正也, 及川浩　訳
 　輻射の多重周期軌道による吸収, 並びにその対応原理およびRayleigh-Jeansの法則との関係 / J.H.Van Vleck ; 後藤順子　訳
+
 第04巻　相対論
 
 　運動物体の電気力学 = Zur Elektrodynamik bewegter Körper / A. Einstein ; 上川友好　訳
@@ -45,6 +51,10 @@ https://www.shi-ho-do.com/edit_html/14983.htm
 　空間と時間 = Raum und Zeit / H. Minkowski ; 上川友好　訳
 　物質とエネルギーに関する基本法則の一修正 = A revision of the fundamental laws of matter and energy / Gilbert N. Lewis ; 上川友好　訳
 　相対性原理と非Newton力学 = The principle of relativity, and non-Newtonian mechanics / Gilbert N. Lewis and Richard C. Tolman ; 上川友好　訳
+> 説明歌　空間と時間、物体慣性の電子力学実験測定
+https://www.amazon.co.jp/dp/4486007654
+https://bookmeter.com/books/1002768
+
 第05巻　気体分子運動論
 
 　気体の動力学的理論の例示 / J. C. Maxwell ; 佐光興亜　訳
@@ -55,11 +65,13 @@ https://www.shi-ho-do.com/edit_html/14983.htm
 　力学の一つの定理と力学的熱理論について / E. Zermelo ; 長浜惲　訳
 Hr. E. Zermeloの熱理論的考察への反論 / L. Boltzmann ; 長浜惲　訳
 　不可逆過程の力学的説明について : Hr Boltzmannの「反論」への回答 / E. Zermelo ; 長浜惲　訳
+
 第06巻　統計力学
 
-　熱理論の第2法則の力学的意義
-　気体分子間の熱平衡についてのさらに進んだ研究
-　熱力学の第2法則と熱平衡についての諸定理に関する確率論の計算とのあいだの関係について
+　熱理論の第2法則の力学的意義 　L. Boltzmann ; 恒藤敏彦　訳
+　気体分子間の熱平衡についてのさらに進んだ研究 　L. Boltzmann ; 恒藤敏彦　訳
+　熱力学の第2法則と熱平衡についての諸定理に関する確率論の計算とのあいだの関係について 　L. Boltzmann ; 恒藤敏彦　訳
+ 
 第07巻　放射能
 
 　新しい型の放射線について = Ueber eine neue Art von Strahlen / W. C. Röntgen ; 木村豊　訳
@@ -76,7 +88,8 @@ Hr. E. Zermeloの熱理論的考察への反論 / L. Boltzmann ; 長浜惲　訳
 　α粒子の電荷と本性 = The charge and nature of the α particle / E. Rutherford and H. Geiger ; 江渕文昭　訳
 　放射性物質からのα粒子の本性 = The nature of the α particle from radioactive substances / E. Rutherford and T. Royds ; 萱沼和子　訳
 　放射性元素と周期律 = The radio-elements and the periodic law / F. Soddy ; 西尾成子　訳
-　放射性元素と周期律 = The radio-elements and the periodic law / F. Soddy ; 西尾成子　訳
+
+ 
 第08巻　電子
 
 　陰極線 / J. J. Thomson ; 遠藤真二　訳
@@ -85,6 +98,7 @@ Hr. E. Zermeloの熱理論的考察への反論 / L. Boltzmann ; 長浜惲　訳
 　スペクトル線に及ぼす磁気的影響の理論について / J. Larmor ; 斉藤幸江　訳
 　磁場の中の光源から放出される光の部分偏光について / H. A. Lorentz ; 遠藤真二　訳
 　低圧気体中のイオンの質量について / J. J. Thomson ; 斉藤幸江　訳
+ 
 第09巻　原子模型
 
 　さまざまの速度の陰極線の吸収について / P. Lenard ; 広重徹　訳
@@ -96,6 +110,9 @@ Hr. E. Zermeloの熱理論的考察への反論 / L. Boltzmann ; 長浜惲　訳
 　放射性元素、周期系、および原子の構成 / A. Van den Broek; 広重徹　訳
 　諸元素の高振動数スペクトル、および同第2部 / H. G. J. Moseley; 後藤順子　訳
 　原子の構造 / E. Rutherford; 後藤鉄男　訳
+https://www.amazon.co.jp/dp/B000JA2AFO/
+https://bookmeter.com/books/1586954
+ 
 第10巻　原子構造論
 
 　原子の核 : 惑星構造 = La structure nucléo-planétaire des atomes / Jean Perrin ; 八木江里　訳
@@ -107,11 +124,13 @@ Hr. E. Zermeloの熱理論的考察への反論 / L. Boltzmann ; 長浜惲　訳
 　黒体輻射の法則の基礎について = Über die Begründung des Gesetzes der schwarzen Strahlung / Max Planck ; 井田幸次郎　訳
 　原子および分子の構造について = On the constitution of atoms and molecules / Niels Bohr; 後藤鉄男　訳
 　長岡-Schott論争 / G.A.Schott, 長岡半太郎 ; 八木江里　訳
+ 
 第11巻　金属電子論
 
 　金属の電子論 = Zur Elektronentheorie der Metalle / P. Drude; 及川浩　訳
 　金属内の電子の運動 = Le mouvement des électrons dans les métaux / H.A. Lorentz; 小川和成　訳
 　金属電子論の研究 = Studier over Metallernes Elektrontheori / N. Bohr ; 西尾成子　訳
+ 
 第12巻　磁性
 
 　種々の温度における物体の磁気的性質 = Propriétés magnétiques des corps à diverses températures / P. Curie ; 小川和成　訳
