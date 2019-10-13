@@ -1,4 +1,7 @@
 
+ようこそ物理の部屋へ!　
+http://education.sakura.ne.jp/phmain.htm
+
 
 物理学古典論文叢書 
 Ref.
@@ -6,6 +9,9 @@ Ref.
 Cit.
 https://ir.lib.hiroshima-u.ac.jp/files/public/0/446/20141016120046397518/KJ00000117809.pdf
 電子の描像　化学指導法の改善　柏原林造　広島大学附属福山中・高等学校　中等教育研究紀要　第３３卷
+
+ 前期量子論における自然放出と帽射力の問題 今野宏之
+http://repo.beppu-u.ac.jp/modules/xoonips/download.php/dk03105.pdf?file_id=1507
 
 誕生と変遷にまなぶ平衡系の熱力学 富永昭
 http://www.amsd.mech.tohoku.ac.jp/Thermoacoustics/TOC.pdf
