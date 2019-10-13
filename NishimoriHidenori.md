@@ -176,11 +176,11 @@ URL http://stacks.iop.org/2058-9565/3/i=3/a=030505?key=crossref.77e4319dbac662ec
 
 [55] Isakov S V, Mazzola G, Smelyanskiy V N, Jiang Z, Boixo S, Neven H and Troyer M 2016 Physical review letters 117 180402
 
-[56] Andriyash E and Amin M H 2017 arXiv:1703.09277 1–12 URL http://arxiv.org/abs/1703. 09277
+[56] Andriyash E and Amin M H 2017 arXiv:1703.09277 1–12 URL http://arxiv.org/abs/1703.09277
 
-[57] Bravyi S and Terhal B 2009 SIAM J. Comput. 39 1462 ISSN 0895-4798 URL http://epubs. siam.org/doi/10.1137/090750688
+[57] Bravyi S and Terhal B 2009 SIAM J. Comput. 39 1462 ISSN 0895-4798 URL http://epubs.siam.org/doi/10.1137/090750688
 
-[58] Albash T and Lidar D A 2018 Rev. Mod. Phys. 90 015002 URL https://link.aps.org/doi/ 10.1103/RevModPhys.90.015002
+[58] Albash T and Lidar D A 2018 Rev. Mod. Phys. 90 015002 URL https://link.aps.org/doi/10.1103/RevModPhys.90.015002
 
 [59] Das A and Chakrabarti B K 2008 Rev. Mod. Phys. 80 1061
 
@@ -284,7 +284,9 @@ siam.org/doi/10.1137/080734479
 
 [113] Shin S W, Smith G, Smolin J A and Vazirani U 2014 How “Quantum” is the D-Wave Machine? (arXiv:1401.7087)
 
-[114] Albash T, Vinci W, Mishra A, Warburton P A and Lidar D A 2015 Phys. Rev. A 91 042314 [115] Albash T, Rønnow T F, Troyer M and Lidar D A 2015 Eur. Phys. J. Spec. Top. 224 111
+[114] Albash T, Vinci W, Mishra A, Warburton P A and Lidar D A 2015 Phys. Rev. A 91 042314 
+
+[115] Albash T, Rønnow T F, Troyer M and Lidar D A 2015 Eur. Phys. J. Spec. Top. 224 111
 
 [116] Martin-Mayor V and Hen I 2015 Unraveling Quantum Annealers using Classical Hardness (arXiv:1502.02494)
 
@@ -330,7 +332,9 @@ algorithm vol 690 ed Gubernatis J E (Los Alamos, New Mexico (USA): AIP) p 200
 
 [135] Wang W, Machta J and Katzgraber H G 2015 Phys. Rev. E 92 063307
 
-[136] Hartmann A K and Rieger H 2001 Optimization Algorithms in Physics (Berlin: Wiley-VCH) [137] Elf M, Gutwenger C, Ju ̈nger M and Rinaldi G 2001 Lecture notes in computer science 2241 Computational Combinatorial Optimization vol 2241 ed Ju ̈nger M and Naddef D (Heidelberg: Springer Verlag)
+[136] Hartmann A K and Rieger H 2001 Optimization Algorithms in Physics (Berlin: Wiley-VCH) 
+
+[137] Elf M, Gutwenger C, Ju ̈nger M and Rinaldi G 2001 Lecture notes in computer science 2241 Computational Combinatorial Optimization vol 2241 ed Ju ̈nger M and Naddef D (Heidelberg: Springer Verlag)
 
 [138] Hartmann A K and Rieger H 2004 New Optimization Algorithms in Physics (Berlin: Wiley-VCH) [139] Gisin N, Ribordy G, Tittel W and Zbinden H 2002 Reviews of modern physics 74 145
 
@@ -346,9 +350,11 @@ algorithm vol 690 ed Gubernatis J E (Los Alamos, New Mexico (USA): AIP) p 200
 
 [145] Bauer B, Wang L, Piˇzorn I and Troyer M 2015 arXiv:1501.06914 URL http://arxiv.org/abs/1501.06914
 
-[146] Bravyi S, Divincenzo D P, Oliveira R and Terhal B M 2004 Quantum Information and Computation 8 361–385 ISSN 0097-5397 URL http://www.rintonpress.com/xxqic8/ qic-8-5/0361-0385.pdfhttp://arxiv.org/abs/quant-ph/0406180
+[146] Bravyi S, Divincenzo D P, Oliveira R and Terhal B M 2004 Quantum Information and Computation 8 361–385 ISSN 0097-5397 URL http://www.rintonpress.com/xxqic8/qic-8-5/0361-0385.pdf http://arxiv.org/abs/quant-ph/0406180
 
-[147] Klassen J and Terhal B M 2018 arXiv:1806.05405 URL http://arxiv.org/abs/1806.05405 [148] Marvian M, Lidar D A and Hen I 2018 arXiv:1802.03408 URL http://arxiv.org/abs/1802.03408
+[147] Klassen J and Terhal B M 2018 arXiv:1806.05405 URL http://arxiv.org/abs/1806.05405 
+
+[148] Marvian M, Lidar D A and Hen I 2018 arXiv:1802.03408 URL http://arxiv.org/abs/1802.03408
 
 [149] Hastings M B and Freedman M H 2013 Quantum Information and Computation 13 1038–1076 URL http://arxiv.org/abs/1302.5733
 
@@ -404,17 +410,17 @@ http://rsta.royalsocietypublishing.org/cgi/doi/10.1098/rsta.2008.0069
 
 [171] Farhi E, Goldstone J, Gosset D, Gutmann S, Meyer H B and Shor P 2011 Quant. Inf. Proc. 11 181
 
-[172] Dickson N G and Amin M H S 2011 Phys. Rev. Lett. 106 050502 URL https://link.aps.org/ doi/10.1103/PhysRevLett.106.050502
+[172] Dickson N G and Amin M H S 2011 Phys. Rev. Lett. 106 050502 URL https://link.aps.org/doi/10.1103/PhysRevLett.106.050502
 
-[173] Dickson N G and Amin M H 2012 Phys. Rev. A 85 032303 URL https://link.aps.org/doi/ 10.1103/PhysRevA.85.032303
+[173] Dickson N G and Amin M H 2012 Phys. Rev. A 85 032303 URL https://link.aps.org/doi/10.1103/PhysRevA.85.032303
 
 [174] Adame J I and Mcmahon P L 2018 arXiv:1806.11091 URL https://arxiv.org/abs/1806. 11091
 
 [175] Perdomo-Ortiz A, Venegas-Andraca S E and Aspuru-Guzik A 2010 Quantum Information Processing 10 33–52 ISSN 1570-0755 URL http://www.springerlink.com/index/10.1007/ s11128-010-0168-z
 
-[176] Chancellor N 2017 New Journal of Physics 19 ISSN 13672630 URL https://doi.org/10.1088/ 1367-2630/aa59c4
+[176] Chancellor N 2017 New Journal of Physics 19 ISSN 13672630 URL https://doi.org/10.1088/1367-2630/aa59c4
 
-[177] Ohkuwa M, Nishimori H and Lidar D A 2018 Physical Review A 98 022314 URL https://journals.aps.org/pra/pdf/10.1103/PhysRevA.98.022314http://arxiv.org/ abs/1806.02542
+[177] Ohkuwa M, Nishimori H and Lidar D A 2018 Physical Review A 98 022314 URL https://journals.aps.org/pra/pdf/10.1103/PhysRevA.98.022314http://arxiv.org/abs/1806.02542
 
 [178] Demirplak M and Rice S A 2003 The Journal of Physical Chemistry A 107 9937–9945
 
@@ -470,7 +476,9 @@ http://rsta.royalsocietypublishing.org/cgi/doi/10.1098/rsta.2008.0069
 
 [205] Islam R, Senko C, Campbell W C, Korenblit S, Smith J, Lee A, Edwards E E, Wang C C J, Freericks J K and Monroe C 2013 Science 340 583
 
-[206] Richerme P, Senko C, Smith J, Lee A, Korenblit S and Monroe C 2013 Phys. Rev. A 88 012334 [207] Nevado P and Porras D 2016 Phys. Rev. A 93 013625
+[206] Richerme P, Senko C, Smith J, Lee A, Korenblit S and Monroe C 2013 Phys. Rev. A 88 012334 
+
+[207] Nevado P and Porras D 2016 Phys. Rev. A 93 013625
 
 [208] Nils Trautmann P H 2018 Phys. Rev. A 97 023606
 
@@ -506,7 +514,7 @@ http://rsta.royalsocietypublishing.org/cgi/doi/10.1098/rsta.2008.0069
 
 [224] Jaksch D, Cirac J, Zoller P, Rolston S, Cˆot ́e R and Lukin M 2000 Physical Review Letters 85 2208
 
-[225] Schauß P, Zeiher J, Fukuhara T, Hild S, Cheneau M, Macr`ı T, Pohl T, Bloch I and Gross C 2015 Science 347 1455–1458 ISSN 0036-8075 URL http://science.sciencemag.org/content/347/6229/1455
+[225] Schauß P, Zeiher J, Fukuhara T, Hild S, Cheneau M, Macrı T, Pohl T, Bloch I and Gross C 2015 Science 347 1455–1458 ISSN 0036-8075 URL http://science.sciencemag.org/content/347/6229/1455
 
 [226] Maller K M, Lichtman M T, Xia T, Sun Y, Piotrowicz M J, Carr A W, Isenhower L and Saffman M 2015 Phys. Rev. A 92 022336 URL http://link.aps.org/doi/10.1103/PhysRevA.92. 022336
 
@@ -517,10 +525,6 @@ http://rsta.royalsocietypublishing.org/cgi/doi/10.1098/rsta.2008.0069
 [229] Pichler H, Wang S T, Zhou L, Choi S and Lukin M D 2018 arXiv preprint arXiv:1808.10816 [230] Torggler V, Aumann P, Ritsch H and Lechner W 2018 arXiv preprint arXiv:1803.00735
 
 [231] Landig R, Hruby L, Dogra N, Landini M, Mottl R, Donner T and Esslinger T 2016 Nature 532
-
-
-
-
 
 # 2
 
@@ -534,17 +538,13 @@ https://arxiv.org/abs/1808.01582
 
 Phys. Rev. A 98, 042326 (2018) 
 
-
-
 [1] T. Kadowaki and H. Nishimori, Phys. Rev. E 58, 5355 (1998).
 
 [2] E. Farhi, J. Goldstone, S. Gutmann, J. Lapan, A. Lundgren, and
 
 D. Preda, Science 292, 472 (2001).
 
-[3] G. E. Santoro, R. Martoňák, E. Tosatti, and R. Car, Science
-
-295, 2427 (2002).
+[3] G. E. Santoro, R. Martoňák, E. Tosatti, and R. Car, Science 295, 2427 (2002).
 
 [4] G. E. Santoro and E. Tosatti, J. Phys. A 39, R393 (2006).
 
@@ -556,67 +556,35 @@ D. Preda, Science 292, 472 (2001).
 
 [8] A. Lucas, Front. Phys. 2, 5 (2014).
 
-[9] S. Kirkpatrick, C. D. Gelatt, and M. P. Vecchi, Science 220,
+[9] S. Kirkpatrick, C. D. Gelatt, and M. P. Vecchi, Science 220, 671 (1983).
 
-671 (1983).
+[10] S. Jansen, M.-B. Ruskai, and R. Seiler, J. Math. Phys. 48, 102111 (2007).
 
-[10] S. Jansen, M.-B. Ruskai, and R. Seiler, J. Math. Phys. 48,
+[11] D. A. Lidar, A. T. Rezakhani, and A. Hamma, J. Math. Phys. 50, 102106 (2009).
 
-102111 (2007).
+[12] C. R. Laumann, R. Moessner, A. Scardicchio, and S. L. Sondhi, Phys. Rev. Lett. 109, 030502 (2012).
 
-[11] D. A. Lidar, A. T. Rezakhani, and A. Hamma, J. Math. Phys.
+[13] J. Tsuda, Y. Yamanaka, and H. Nishimori, J. Phys. Soc. Jpn. 82, 114004 (2013).
 
-50, 102106 (2009).
+[14] H. Nishimori and G. Ortiz, Elements of Phase Transitions and Critical Phenomena (Oxford University Press, Oxford, U.K., 2011).
 
-[12] C. R. Laumann, R. Moessner, A. Scardicchio, and S. L. Sondhi,
+[15] J. E. Avron, M. Fraas, G. M. Graf, and P. Grech, Commun. Math. Phys. 314, 163 (2012).
 
-Phys. Rev. Lett. 109, 030502 (2012).
+[16] L. C. Venuti, T. Albash, D. A. Lidar, and P. Zanardi, Phys. Rev. A 93, 032118 (2016).
 
-[13] J. Tsuda, Y. Yamanaka, and H. Nishimori, J. Phys. Soc. Jpn. 82,
+[17] L. C. Venuti, T. Albash, M. Marvian, D. Lidar, and P. Zanardi, Phys. Rev. A 95, 042302 (2017).
 
-114004 (2013).
+[18] T. Jörg, F. Krzakala, J. Kurchan, and A. C. Maggs, Phys. Rev. Lett. 101, 147204 (2008).
 
-[14] H. Nishimori and G. Ortiz, Elements of Phase Transitions and
+[19] T. Jörg, F. Krzakala, J. Kurchan, A. C. Maggs, and J. Pujos, Europhys. Lett. 89, 40004 (2010).
 
-Critical Phenomena (Oxford University Press, Oxford, U.K.,
+[20] H. Nishimori, J. Tsuda, and S. Knysh, Phys. Rev. E 91, 012104 (2015).
 
-2011).
+[21] S. Matsuura, H. Nishimori, T. Albash, and D. A. Lidar, Phys. Rev. Lett. 116, 220501 (2016).
 
-[15] J. E. Avron, M. Fraas, G. M. Graf, and P. Grech, Commun.
+[22] S. Matsuura, H. Nishimori, W. Vinci, T. Albash, and D. A. Lidar, Phys. Rev. A 95, 022308 (2017).
 
-Math. Phys. 314, 163 (2012).
-
-[16] L. C. Venuti, T. Albash, D. A. Lidar, and P. Zanardi, Phys. Rev.
-
-A 93, 032118 (2016).
-
-[17] L. C. Venuti, T. Albash, M. Marvian, D. Lidar, and P. Zanardi,
-
-Phys. Rev. A 95, 042302 (2017).
-
-[18] T. Jörg, F. Krzakala, J. Kurchan, and A. C. Maggs, Phys. Rev.
-
-Lett. 101, 147204 (2008).
-
-[19] T. Jörg, F. Krzakala, J. Kurchan, A. C. Maggs, and J. Pujos,
-
-Europhys. Lett. 89, 40004 (2010).
-
-[20] H. Nishimori, J. Tsuda, and S. Knysh, Phys. Rev. E 91, 012104
-
-(2015).
-
-[21] S. Matsuura, H. Nishimori, T. Albash, and D. A. Lidar, Phys.
-
-Rev. Lett. 116, 220501 (2016).
-
-[22] S. Matsuura, H. Nishimori, W. Vinci, T. Albash, and D. A.
-
-Lidar, Phys. Rev. A 95, 022308 (2017).
-
-[23] C. R. Laumann, R. Moessner, A. Scardicchio, and S. L. Sondhi,
-
-Eur. Phys. J. Spec. Top. 224, 75 (2015).
+[23] C. R. Laumann, R. Moessner, A. Scardicchio, and S. L. Sondhi, Eur. Phys. J. Spec. Top. 224, 75 (2015).
 
 [24] G. A. Durkin, arXiv:1806.07602.
 
@@ -628,10 +596,7 @@ Eur. Phys. J. Spec. Top. 224, 75 (2015).
 
 [28] H. Nishimori and K. Takada, Front. ICT 4, 2 (2017).
 
-[29] M. Ohkuwa, H. Nishimori, and D. A. Lidar, Phys. Rev. A 98,
-
-022314 (2018).
-
+[29] M. Ohkuwa, H. Nishimori, and D. A. Lidar, Phys. Rev. A 98, 022314 (2018).
 for the case (c) a discontinuity exists at the transition point, a feature of a first-order phase transition [55].
 
 [30] M. M. Rams, M. Mohseni, and A. del Campo, New J. Phys. 18, 123034 (2016).
@@ -640,21 +605,13 @@ for the case (c) a discontinuity exists at the transition point, a feature of a 
 
 (2008).
 
-[34] E. Farhi, J. Goldstone, D. Gosset, S. Gutmann, H. B. Meyer,
+[34] E. Farhi, J. Goldstone, D. Gosset, S. Gutmann, H. B. Meyer, and P. Shor, Quantum Inf. Process. 11, 181 (2011).
 
-and P. Shor, Quantum Inf. Process. 11, 181 (2011).
+[35] N. G. Dickson and M. H. S. Amin, Phys. Rev. Lett. 106, 050502 (2011).
 
-[35] N. G. Dickson and M. H. S. Amin, Phys. Rev. Lett. 106, 050502
+[36] N. G. Dickson and M. H. Amin, Phys. Rev. A 85, 032303 (2012). [37] T. Lanting, A. D. King, B. Evert, and E. Hoskinson, Phys. Rev. A 96, 042322 (2017).
 
-(2011).
-
-[36] N. G. Dickson and M. H. Amin, Phys. Rev. A 85, 032303 (2012). [37] T. Lanting, A. D. King, B. Evert, and E. Hoskinson, Phys. Rev.
-
-A 96, 042322 (2017).
-
-[38] A. Del Campo, T. W. B. Kibble, and W. Zurek, J. Phys.: Con-
-
-dens. Matter 25, 404210 (2013).
+[38] A. Del Campo, T. W. B. Kibble, and W. Zurek, J. Phys.: Condens. Matter 25, 404210 (2013).
 
 [39] F. Gómez-Ruiz and A. del Campo, arXiv:1805.00525.
 
@@ -662,64 +619,33 @@ dens. Matter 25, 404210 (2013).
 
 [41] M. Okuyama and M. Ohzeki, arXiv:1808.09707.
 
-[42] Y. Susa, Y. Yamashiro, M. Yamamoto, and H. Nishimori, J.
-
-Phys. Soc. Jpn. 87, 023002 (2018).
+[42] Y. Susa, Y. Yamashiro, M. Yamamoto, and H. Nishimori, J. Phys. Soc. Jpn. 87, 023002 (2018).
 
 [43] L. K. Grover, Phys. Rev. Lett. 79, 325 (1997).
 
-[44] M. Filippone, S. Dusuel, and J. Vidal, Phys. Rev. A 83, 022327
+[44] M. Filippone, S. Dusuel, and J. Vidal, Phys. Rev. A 83, 022327 (2011).
 
-(2011).
+[45] T. Ichikawa, Master’s thesis, Tokyo Institute of Technology, 2014.
 
-[45] T. Ichikawa, Master’s thesis, Tokyo Institute of Technology,
+[46] S. Shin, G. Smith, A. Smolin, and U. Vaziriani, arXiv:1404.6499.
 
-2014.
+[47] T. F. Rønnow, Z. Wang, J. Job, S. Boixo, S. V. Isakov, D. Wecker, J. M. Martinis, D. A. Lidar, and M. Troyer, Science 345, 420 (2014).
 
-[46] S. Shin, G. Smith, A. Smolin, and U. Vaziriani,
+[48] T. Albash, T. F. Rønnow, M. Troyer, and D. A. Lidar, Eur. Phys. J. Spec. Top. 224, 111 (2015).
 
-arXiv:1404.6499.
+[49] T. Albash, W. Vinci, A. Mishra, P. A. Warburton, and D. A. Lidar, Phys. Rev. A 91, 042314 (2015).
 
-[47] T. F. Rønnow, Z. Wang, J. Job, S. Boixo, S. V. Isakov, D. Wecker,
+[50] K. L. Pudenz, T. Albash, and D. A. Lidar, Phys. Rev. A 91, 042302 (2015).
 
-J. M. Martinis, D. A. Lidar, and M. Troyer, Science 345, 420
+[51] S. Boixo, V. N. Smelyanskiy, A. Shabani, S. V. Isakov, M. Dykman, V. S. Denchev, M. H. Amin, A. Y. Smirnov, M. Mohseni, and H. Neven, Nat. Commun. 7, 10327 (2016).
 
-(2014).
+[52] A. Mishra, T. Albash, and D. A. Lidar, Nat. Commun. 9, 2917 (2018).
 
-[48] T. Albash, T. F. Rønnow, M. Troyer, and D. A. Lidar, Eur. Phys.
+[53] P. J. D. Crowley, T. Durić, W. Vinci, P. A. Warburton, and A. G. Green, Phys. Rev. A 90, 042317 (2014).
 
-J. Spec. Top. 224, 111 (2015).
+[54] A. del Campo and W. H. Zurek, Int. J. Mod. Phys. A 29, 1430018 (2014).
 
-[49] T. Albash, W. Vinci, A. Mishra, P. A. Warburton, and D. A.
-
-Lidar, Phys. Rev. A 91, 042314 (2015).
-
-[50] K. L. Pudenz, T. Albash, and D. A. Lidar, Phys. Rev. A 91,
-
-042302 (2015).
-
-[51] S. Boixo, V. N. Smelyanskiy, A. Shabani, S. V. Isakov, M. Dyk-
-
-man, V. S. Denchev, M. H. Amin, A. Y. Smirnov, M. Mohseni,
-
-and H. Neven, Nat. Commun. 7, 10327 (2016).
-
-[52] A. Mishra, T. Albash, and D. A. Lidar, Nat. Commun. 9, 2917
-
-(2018).
-
-[53] P. J. D. Crowley, T. Durić, W. Vinci, P. A. Warburton, and A. G.
-
-Green, Phys. Rev. A 90, 042317 (2014).
-
-[54] A. del Campo and W. H. Zurek, Int. J. Mod. Phys. A 29, 1430018
-
-(2014).
-
-[55] L. A. Wu, M. S. Sarandy, and D. A. Lidar, Phys. Rev. Lett. 93,
-
-250404 (2004).
-
+[55] L. A. Wu, M. S. Sarandy, and D. A. Lidar, Phys. Rev. Lett. 93, 250404 (2004).
 
 
 # 3
@@ -733,10 +659,6 @@ https://arxiv.org/abs/1806.02542
 (Submitted on 7 Jun 2018)
 
 Phys. Rev. A 98, 022314 (2018)
-
-
-
-
 
 [1] T. Kadowaki and H. Nishimori, Phys. Rev. E 58, 5355 (1998). 
 
@@ -762,23 +684,15 @@ Phys. Rev. A 98, 022314 (2018)
 
 [11] A. Lucas, Frontiers in Phys. 2, 1 (2014).
 
-[12] A. Perdomo-Ortiz, S. E. Venegas-Andraca, and A. Aspuru-Guzik, Quantum Information Processing
+[12] A. Perdomo-Ortiz, S. E. Venegas-Andraca, and A. Aspuru-Guzik, Quantum Information Processing 10, 33 (2011).
 
-10, 33 (2011).
-
-[13] A.D.King,J.Carrasquilla,I.Ozfidan,J.Raymond,E.Andriyash,A.Berkley,M.Reis,T.M.Lanting,
-
-R. Harris, G. Poulin-Lamarre, A. Y. Smirnov, C. Rich, F. Altomare, P. Bunyk, J. Whittaker, L. Swen- son, E. Hoskinson, Y. Sato, M. Volkmann, E. Ladizinsky, M. Johnson, J. Hilton, and M. H. Amin, arXiv:1803.02047 (2018).
+[13] A.D.King,J.Carrasquilla,I.Ozfidan,J.Raymond,E.Andriyash,A.Berkley,M.Reis,T.M.Lanting, R. Harris, G. Poulin-Lamarre, A. Y. Smirnov, C. Rich, F. Altomare, P. Bunyk, J. Whittaker, L. Swen- son, E. Hoskinson, Y. Sato, M. Volkmann, E. Ladizinsky, M. Johnson, J. Hilton, and M. H. Amin, arXiv:1803.02047 (2018).
 
 [14] T. Jo ̈rg, F. Krzakala, J. Kurchan, A. C. Maggs, and J. Pujos, EPL 89, 40004 (2010).
 
 [15] Y. Seki and H. Nishimori, Phy. Rev. E 85, 051112 (2012).
 
-[16] Manaka Okuyama (private communication) recently proved that the static approximation gives the
-
-exact solution in the present problem. We nevertheless use the term ‘static approximation’ following
-
-the convention.
+[16] Manaka Okuyama (private communication) recently proved that the static approximation gives the exact solution in the present problem. We nevertheless use the term ‘static approximation’ following the convention.
 
 [17] S. Bravyi, D. P. Di Vincenzo, R. Oliveira, and B. M. Terhal, Quanum Inf. Comput. 8, 361 (2008).
 
@@ -792,8 +706,6 @@ the convention.
 
 [22] Y. Susa, J. F. Jadebeck, and H. Nishimori, Physical Review A 95, 042321 (2017).
 
-
-
 # 4
 
 Nested Quantum Annealing Correction at Finite Temperature: p-spin models
@@ -805,8 +717,6 @@ https://arxiv.org/abs/1803.01492
 (Submitted on 5 Mar 2018)
 
 Phys. Rev. A. 99, 062307 (2019)
-
-
 
 [1] A. B. Finnila, M. A. Gomez, C. Sebenik, C. Stenson, and J. D. Doll, “Quantum annealing: A new method for min- imizing multidimensional functions,” Chemical Physics Letters 219, 343–348 (1994).
 
@@ -826,15 +736,9 @@ Phys. Rev. A. 99, 062307 (2019)
 
 [9] William M. Kaminsky, Seth Lloyd, and Terry P. Or- lando, “Quantum computing and quantum bits in meso-
 
-exponents. The coefficients in these equations, 2JCλ and √4JCλ, would be the leading terms of asymptotic expansions of the relevant coefficient g(C) in the limit of C ≫ 1. In other words, it is expected that the gap closes as g(C)􏰗|Γ − Γc| for general values of C with g(C) having the above asymptotic forms for C ≫ 1.
+exponents. The coefficients in these equations, 2JCλ and √4JCλ, would be the leading terms of asymptotic expansions of the relevant coefficient g(C) in the limit of C ≫ 1. In other words, it is expected that the gap closes as g(C)􏰗|Γ − Γc| for general values of C with g(C) having the above asymptotic forms for C ≫ 1. scopic systems,” (Springer, New York, 2004) Chap. 25, pp. 229–236.
 
-scopic systems,” (Springer, New York, 2004) Chap. 25,
-
-pp. 229–236.
-
-[10] R. Harris, J. Johansson, A. J. Berkley, M. W. Johnson,
-
-T. Lanting, Siyuan Han, P. Bunyk, E. Ladizinsky, T. Oh, I. Perminov, E. Tolkacheva, S. Uchaikin, E. M. Chapple, C. Enderud, C. Rich, M. Thom, J. Wang, B. Wilson, and G. Rose, “Experimental demonstration of a robust and scalable flux qubit,” Phys. Rev. B 81, 134510 (2010).
+[10] R. Harris, J. Johansson, A. J. Berkley, M. W. Johnson, T. Lanting, Siyuan Han, P. Bunyk, E. Ladizinsky, T. Oh, I. Perminov, E. Tolkacheva, S. Uchaikin, E. M. Chapple, C. Enderud, C. Rich, M. Thom, J. Wang, B. Wilson, and G. Rose, “Experimental demonstration of a robust and scalable flux qubit,” Phys. Rev. B 81, 134510 (2010).
 
 [11] R. Harris, M. W. Johnson, T. Lanting, A. J. Berkley, J. Johansson, P. Bunyk, E. Tolkacheva, E. Ladizinsky, N. Ladizinsky, T. Oh, F. Cioata, I. Perminov, P. Spear, C. Enderud, C. Rich, S. Uchaikin, M. C. Thom, E. M. Chapple, J. Wang, B. Wilson, M. H. S. Amin, N. Dickson, K. Karimi, B. Macready, C. J. S. Truncik, and G. Rose, “Experimental investigation of an eight-qubit unit cell in a superconducting optimization processor,” Phys. Rev. B 82, 024511 (2010).
 
@@ -842,9 +746,7 @@ T. Lanting, Siyuan Han, P. Bunyk, E. Ladizinsky, T. Oh, I. Perminov, E. Tolkache
 
 [13] M. W. Johnson, M. H. S. Amin, S. Gildert, T. Lanting, F. Hamze, N. Dickson, R. Harris, A. J. Berkley, J. Jo- hansson, P. Bunyk, E. M. Chapple, C. Enderud, J. P. Hilton, K. Karimi, E. Ladizinsky, N. Ladizinsky, T. Oh, I. Perminov, C. Rich, M. C. Thom, E. Tolkacheva, C. J. S. Truncik, S. Uchaikin, J. Wang, B. Wilson, and G. Rose, “Quantum annealing with manufactured spins,” Nature 473, 194–198 (2011).
 
-[14] A. J. Berkley, A. J. Przybysz, T. Lanting, R. Harris,
-
-N. Dickson, F. Altomare, M. H. Amin, P. Bunyk, C. En- derud, E. Hoskinson, M. W. Johnson, E. Ladizinsky, R. Neufeld, C. Rich, A. Yu. Smirnov, E. Tolkacheva, S. Uchaikin, and A. B. Wilson, “Tunneling spectroscopy using a probe qubit,” Phys. Rev. B 87, 020502– (2013).
+[14] A. J. Berkley, A. J. Przybysz, T. Lanting, R. Harris, N. Dickson, F. Altomare, M. H. Amin, P. Bunyk, C. En- derud, E. Hoskinson, M. W. Johnson, E. Ladizinsky, R. Neufeld, C. Rich, A. Yu. Smirnov, E. Tolkacheva, S. Uchaikin, and A. B. Wilson, “Tunneling spectroscopy using a probe qubit,” Phys. Rev. B 87, 020502– (2013).
 
 [15] P. I Bunyk, E. M. Hoskinson, M. W. Johnson, E. Tolka- cheva, F. Altomare, AJ. Berkley, R. Harris, J. P. Hilton, T. Lanting, AJ. Przybysz, and J. Whittaker, “Archi- tectural considerations in the design of a superconduct- ing quantum annealing processor,” IEEE Transactions on Applied Superconductivity 24, 1–10 (Aug. 2014).
 
@@ -862,31 +764,17 @@ N. Dickson, F. Altomare, M. H. Amin, P. Bunyk, C. En- derud, E. Hoskinson, M. W.
 
 [22] John A. Smolin and Graeme Smith, “Classical signature of quantum annealing,” Frontiers in Physics 2, 52 (2014).
 
-[23] Lei Wang, Troels F. Rønnow, Sergio Boixo, Sergei V. Isakov, Zhihui Wang, David Wecker, Daniel A. Li- dar, John M. Martinis, and Matthias Troyer, “Com- ment on: ‘Classical signature of quantum annealing’,”
+[23] Lei Wang, Troels F. Rønnow, Sergio Boixo, Sergei V. Isakov, Zhihui Wang, David Wecker, Daniel A. Li- dar, John M. Martinis, and Matthias Troyer, “Com- ment on: ‘Classical signature of quantum annealing’,” arXiv:1305.5837 (2013).
 
-arXiv:1305.5837 (2013).
+[24] Seung Woo Shin, Graeme Smith, John A. Smolin, and Umesh Vazirani, “How “quantum” is the D-Wave machine?” arXiv:1401.7087 (2014).
 
-[24] Seung Woo Shin, Graeme Smith, John A. Smolin, and
+[25] Seung Woo Shin, Graeme Smith, John A. Smolin, and Umesh Vazirani, “Comment on ”distinguishing clas- sical and quantum models for the D-Wave device”,” arXiv:1404.6499 (2014).
 
-Umesh Vazirani, “How “quantum” is the D-Wave ma-
+[26] Troels F. Rønnow, Zhihui Wang, Joshua Job, Sergio Boixo, Sergei V. Isakov, David Wecker, John M. Mar- tinis, Daniel A. Lidar, and Matthias Troyer, “Defining and detecting quantum speedup,” Science 345, 420–424 (2014).
 
-chine?” arXiv:1401.7087 (2014).
+[27] Sergio Boixo, Vadim N. Smelyanskiy, Alireza Shabani, Sergei V. Isakov, Mark Dykman, Vasil S. Denchev, Mohammad H. Amin, Anatoly Yu Smirnov, Masoud Mohseni, and Hartmut Neven, “Computational multi- qubit tunnelling in programmable quantum annealers,” Nat Commun 7 (2016).
 
-[25] Seung Woo Shin, Graeme Smith, John A. Smolin, and
-
-Umesh Vazirani, “Comment on ”distinguishing clas- sical and quantum models for the D-Wave device”,” arXiv:1404.6499 (2014).
-
-[26] Troels F. Rønnow, Zhihui Wang, Joshua Job, Sergio Boixo, Sergei V. Isakov, David Wecker, John M. Mar- tinis, Daniel A. Lidar, and Matthias Troyer, “Defining
-
-and detecting quantum speedup,” Science 345, 420–424
-
-(2014).
-
-[27] Sergio Boixo, Vadim N. Smelyanskiy, Alireza Shabani,
-
-Sergei V. Isakov, Mark Dykman, Vasil S. Denchev, Mohammad H. Amin, Anatoly Yu Smirnov, Masoud Mohseni, and Hartmut Neven, “Computational multi- qubit tunnelling in programmable quantum annealers,” Nat Commun 7 (2016).
-
-[28] Davide Venturelli, Salvatore Mandra`, Sergey Knysh, Bryan O’Gorman, Rupak Biswas, and Vadim Smelyan- skiy, “Quantum optimization of fully connected spin glasses,” Phys. Rev. X 5, 031040– (2015).
+[28] Davide Venturelli, Salvatore Mandra, Sergey Knysh, Bryan O’Gorman, Rupak Biswas, and Vadim Smelyan- skiy, “Quantum optimization of fully connected spin glasses,” Phys. Rev. X 5, 031040– (2015).
 
 [29] James King, Sheir Yarkoni, Jack Raymond, Isil Ozfi- dan, Andrew D. King, Mayssam Mohammadi Nevisi, Jeremy P. Hilton, and Catherine C. McGeoch, “Quan- tum annealing amid local ruggedness and global frustra- tion,” arXiv:1701.04579 (2017).
 
@@ -900,23 +788,19 @@ Sergei V. Isakov, Mark Dykman, Vasil S. Denchev, Mohammad H. Amin, Anatoly Yu Sm
 
 [34] Vasil S. Denchev, Sergio Boixo, Sergei V. Isakov, Nan Ding, Ryan Babbush, Vadim Smelyanskiy, John Marti- nis, and Hartmut Neven, “What is the computational value of finite-range tunneling?” Phys. Rev. X 6, 031015 (2016).
 
-[35] Salvatore Mandra`, Zheng Zhu, Wenlong Wang, Alejandro Perdomo-Ortiz, and Helmut G. Katzgraber, “Strengths and weaknesses of weak-strong cluster problems: A detailed overview of state-of-the-art classical heuristics versus quantum approaches,” Physical Review A 94, 022337– (2016).
+[35] Salvatore Mandra, Zheng Zhu, Wenlong Wang, Alejandro Perdomo-Ortiz, and Helmut G. Katzgraber, “Strengths and weaknesses of weak-strong cluster problems: A detailed overview of state-of-the-art classical heuristics versus quantum approaches,” Physical Review A 94, 022337– (2016).
 
 [36] Walter Vinci and Daniel A. Lidar, “Optimally stopped optimization,” Physical Review Applied 6, 054016– (2016).
 
 [37] Tameem Albash and Daniel A. Lidar, “Evidence for a limited quantum speedup on a quantum annealer,” arXiv:1705.07452 (2017).
 
-[38] Salvatore Mandr`a and Helmut G. Katzgraber, “A deceptive step towards quantum speedup detection,” arXiv:1711.01368 (2017).
+[38] Salvatore Mandra and Helmut G. Katzgraber, “A deceptive step towards quantum speedup detection,” arXiv:1711.01368 (2017).
 
 [39] Fei Yan, Simon Gustavsson, Archana Kamal, Jeffrey Birenbaum, Adam P Sears, David Hover, Ted J. Gud- mundsen, Danna Rosenberg, Gabriel Samach, S Weber, Jonilyn L. Yoder, Terry P. Orlando, John Clarke, An- drew J. Kerman, and William D. Oliver, “The flux qubit revisited to enhance coherence and reproducibility,” Na- ture Communications 7, 12964 EP – (2016).
 
-[40] Steven J. Weber, Gabriel O. Samach, David Hover, Si- mon Gustavsson, David K. Kim, Alexander Melville, Danna Rosenberg, Adam P. Sears, Fei Yan, Jonilyn L. Yoder, William D. Oliver, and Andrew J. Kerman, “Coherent coupled qubits for quantum annealing,” Physical
+[40] Steven J. Weber, Gabriel O. Samach, David Hover, Si- mon Gustavsson, David K. Kim, Alexander Melville, Danna Rosenberg, Adam P. Sears, Fei Yan, Jonilyn L. Yoder, William D. Oliver, and Andrew J. Kerman, “Coherent coupled qubits for quantum annealing,” Physical Review Applied 8, 014004– (2017).
 
-Review Applied 8, 014004– (2017).
-
-[41] R. Islam, C. Senko, W. C. Campbell, S. Korenblit,
-
-J. Smith, A. Lee, E. E. Edwards, C. C. J. Wang, J. K. Freericks, and C. Monroe, “Emergence and frustration of magnetism with variable-range interactions in a quan- tum simulator,” Science 340, 583–587 (2013).
+[41] R. Islam, C. Senko, W. C. Campbell, S. Korenblit, J. Smith, A. Lee, E. E. Edwards, C. C. J. Wang, J. K. Freericks, and C. Monroe, “Emergence and frustration of magnetism with variable-range interactions in a quan- tum simulator,” Science 340, 583–587 (2013).
 
 [42] J. Smith, A. Lee, P. Richerme, B. Neyenhuis, P. W. Hess, P. Hauke, M. Heyl, D. A. Huse, and C. Monroe, “Many-body localization in a quantum simulator with programmable random disorder,” Nature Physics 12, 907 EP – (2016).
 
@@ -944,47 +828,23 @@ J. Smith, A. Lee, E. E. Edwards, C. C. J. Wang, J. K. Freericks, and C. Monroe, 
 
 [54] Lov K. Grover, “A fast quantum mechanical algorithm for database search,” in Proceedings of the Twenty- eighth Annual ACM Symposium on Theory of Comput- ing, STOC ’96 (ACM, New York, NY, USA, 1996) pp. 212–219.
 
-[55] Edward Farhi, Jeffrey Goldstone, Sam Gutmann, and
+[55] Edward Farhi, Jeffrey Goldstone, Sam Gutmann, and Michael Sipser, “Quantum Computation by Adiabatic Evolution,” arXiv:quant-ph/0001106 (2000).
 
-Michael Sipser, “Quantum Computation by Adiabatic
+[56] M. Born and V. Fock, “Beweis des adiabatensatzes,” Zeitschrift fu ̈r Physik 51, 165 (1928).
 
-Evolution,” arXiv:quant-ph/0001106 (2000).
+[57] T. Kato, “On the adiabatic theorem of quantum mechanics,” J. Phys. Soc. Jap. 5, 435 (1950).
 
-[56] M. Born and V. Fock, “Beweis des adiabatensatzes,”
+[58] L. M. Garrido and F. J. Sancho, “Degree of approximate validity of the adiabatic invariance in quantum mechanics,” Physica 28, 553–560 (1962).
 
-Zeitschrift fu ̈r Physik 51, 165 (1928).
+[59] G. Nenciu, “On the adiabatic theorem of quantum mechanics,” J. Phys. A: Math. Gen. 13, L15 (1980).
 
-[57] T. Kato, “On the adiabatic theorem of quantum mechan-
+[60] J. E. Avron, R. Seiler, and L. G. Yaffe, “Adiabatic theo- rems and applications to the quantum hall effect,” Com- mun. Math. Phys. 110, 33–49 (1987), erratum: ibid, 156, 649 (1993).
 
-ics,” J. Phys. Soc. Jap. 5, 435 (1950).
+[61] George A. Hagedorn and Alain Joye, “Elementary exponential error estimates for the adiabatic approximation,” J. Math. Anal. Appl. 267, 235–246 (2002).
 
-[58] L. M. Garrido and F. J. Sancho, “Degree of approximate
+[62] Sabine Jansen, Mary-Beth Ruskai, and Ruedi Seiler, “Bounds for the adiabatic approximation with appli- cations to quantum computation,” J. Math. Phys. 48, 102111 (2007).
 
-validity of the adiabatic invariance in quantum mechan-
-
-ics,” Physica 28, 553–560 (1962).
-
-[59] G. Nenciu, “On the adiabatic theorem of quantum me-
-
-chanics,” J. Phys. A: Math. Gen. 13, L15 (1980).
-
-[60] J. E. Avron, R. Seiler, and L. G. Yaffe, “Adiabatic theo- rems and applications to the quantum hall effect,” Com- mun. Math. Phys. 110, 33–49 (1987), erratum: ibid, 156,
-
-649 (1993).
-
-[61] George A. Hagedorn and Alain Joye, “Elementary expo-
-
-nential error estimates for the adiabatic approximation,”
-
-J. Math. Anal. Appl. 267, 235–246 (2002).
-
-[62] Sabine Jansen, Mary-Beth Ruskai, and Ruedi Seiler, “Bounds for the adiabatic approximation with appli- cations to quantum computation,” J. Math. Phys. 48,
-
-102111 (2007).
-
-[63] Daniel A. Lidar, Ali T. Rezakhani, and Alioscia Hamma,
-
-“Adiabatic approximation with exponential accuracy for many-body systems and quantum computation,” J. Math. Phys. 50, 102106 (2009).
+[63] Daniel A. Lidar, Ali T. Rezakhani, and Alioscia Hamma, “Adiabatic approximation with exponential accuracy for many-body systems and quantum computation,” J. Math. Phys. 50, 102106 (2009).
 
 [64] Yimin Ge, Andra ́s Molna ́r, and J. Ignacio Cirac, “Rapid adiabatic preparation of injective pro jected entangled pair states and gibbs states,” Physical Review Letters 116, 080503– (2016).
 
@@ -1052,8 +912,6 @@ and Daniel A. Lidar, “Mean field analysis of quan- tum annealing correction,�
 
 [92] Michele Filippone, S ́ebastien Dusuel, and Julien Vidal, “Quantum phase transitions in fully connected spin mod- els: An entanglement perspective,” Phys. Rev. A 83, 022327 (2011).
 
-
-
 # 5
 
 Exponential Speedup of Quantum Annealing by Inhomogeneous Driving of the Transverse Field
@@ -1070,45 +928,31 @@ Phys. Rev. A. 99, 062307 (2019)
 
 1) T. Kadowaki and H. Nishimori, Phys. Rev. E 58, 5355 (1998).
 
-2) J. Brooke, D. Bitko, T. F. Rosenbaum, and G. Aeppli, Science 284, 779
+2) J. Brooke, D. Bitko, T. F. Rosenbaum, and G. Aeppli, Science 284, 779 (1999).
 
-(1999).
+3) E. Farhi, J. Goldstone, S. Gutmann, J. Lapan, A. Lundgren, and D. Preda, Science 292, 472 (2001).
 
-3) E. Farhi, J. Goldstone, S. Gutmann, J. Lapan, A. Lundgren, and D.
-
-Preda, Science 292, 472 (2001).
-
-4) G. E. Santoro, R. Martona ́k, E. Tosatti, and R. Car, Science 295, 2427
-
-(2002).
+4) G. E. Santoro, R. Martona ́k, E. Tosatti, and R. Car, Science 295, 2427 (2002).
 
 5) G. E. Santoro and E. Tosatti, J. Phys. A 39, R393 (2006).
 
 6) A. Das and B. Chakrabarti, Rev. Mod. Phys. 80, 1061 (2008).
 
-7) S. Tanaka, R. Tamura, and B. K. Chakrabarti, Quantum Spin Glasses,
-
-Annealing, and Computation (Cambridge University Press, 2017).
+7) S. Tanaka, R. Tamura, and B. K. Chakrabarti, Quantum Spin Glasses, Annealing, and Computation (Cambridge University Press, 2017).
 
 8) T. Albash and D. A. Lidar, arXiv:1705.07452.
 
-9) J. Biamonte, P. Wittek, N. Pancotti, P. Rebentrost, N. Wiebe, and S.
-
-Lloyd, Nature 549, 195 (2017).
+9) J. Biamonte, P. Wittek, N. Pancotti, P. Rebentrost, N. Wiebe, and S. Lloyd, Nature 549, 195 (2017).
 
 10) T. Albash and D. A. Lidar, arXiv:1611.04471.
 
 11) E. Farhi, J. Goldstone, and S. Gutmann, arXiv:quant-ph/0208135.
 
-12) E. Crosson, E. Farhi, C. Y.-Y. Lin, H.-H. Lin, and P. Shor,
-
-arXiv:1401.7320.
+12) E. Crosson, E. Farhi, C. Y.-Y. Lin, H.-H. Lin, and P. Shor, arXiv:1401.7320.
 
 13) H. Nishimori and K. Takada, Front. ICT 4, 2 (2017).
 
-14) L. Hormozi, E. W. Brown, G. Carleo, and M. Troyer, Phys. Rev. B 95,
-
-184416 (2017).
+14) L. Hormozi, E. W. Brown, G. Carleo, and M. Troyer, Phys. Rev. B 95, 184416 (2017).
 
 15) M. M. Rams, M. Mohseni, and A. del Campo, New J. Phys. 18, 123034
 
