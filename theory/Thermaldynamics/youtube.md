@@ -15,6 +15,7 @@ https://www.appi.keio.ac.jp/?page_id=4116
 # 統計物理
 
 ### 慶應大学　理工学部　講義　統計物理　第一回
+
 [![慶應大学　理工学部　講義　統計物理　第一回](http://img.youtube.com/vi/zhHoeqVD8ak/0.jpg)](https://www.youtube.com/watch?v=zhHoeqVD8ak)
 
 >自分で23乗っていう言葉、よく使ってたけど、統計物理の授業でも使っているのなら安心。いろいろ納得感ある。wikiとの違いは、人間が考える速度で言葉が流れること。かつ、いろいろなツッコミの可能性を適宜検討している。
@@ -26,6 +27,7 @@ https://www.appi.keio.ac.jp/?page_id=4116
 エーラー展開
 
 ### 慶應大学　理工学部　講義　統計物理　第二回
+
 [![慶應大学　理工学部　講義　統計物理　第二回](http://img.youtube.com/vi/e01_Ms_Yalw/0.jpg)](https://www.youtube.com/watch?v=e01_Ms_Yalw)
 
 第一回に紹介があった参考文献（講義の内容をほぼ網羅）
@@ -48,6 +50,16 @@ https://www.amazon.co.jp/dp/4563024384
 慶應大学　理工学部　講義　数理物理　第十三回
 [![慶應大学　理工学部　講義　数理物理　第十三回](http://img.youtube.com/vi/kRaVMUdRvDA/0.jpg)](https://www.youtube.com/watch?v=kRaVMUdRvDA)
 
+# 参考資料(reference)
+
+Embed a YouTube video
+https://stackoverflow.com/questions/11804820/embed-a-youtube-video/29862696#29862696
+
+
 # 文書履歴(document history)
-ver. 0.01 初稿 
+
+ver. 0.01 初稿 20190726
+
 ver. 0.02 補足 20190812
+
+ver. 0.03 追記 20191013
