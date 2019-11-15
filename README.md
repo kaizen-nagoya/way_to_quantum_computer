@@ -1,12 +1,15 @@
 # way_to_quantum_computer
 
 1. Theory
+https://github.com/kaizen-nagoya/way_to_quantum_computer/tree/master/theory
 
 1.1 Mathematics
+https://github.com/kaizen-nagoya/way_to_quantum_computer/tree/master/theory/math
 
 1.2 Physics
 
 1.3 Thermal dynamics
+https://github.com/kaizen-nagoya/way_to_quantum_computer/tree/master/theory/Thermaldynamics
 
 1.4 Probability and Statistics
 
@@ -20,4 +23,14 @@ https://www.ipa.go.jp/files/000055797.pdf
 2. Computation
 
 3. History
+https://github.com/kaizen-nagoya/way_to_quantum_computer/tree/master/history
 
+4. Record
+
+「量子アニーリングの基礎」を読む 第１日 https://qiita.com/kaizen_nagoya/items/2bc284faaf0f61278778
+
+「量子アニーリングの基礎」を読む 第２日 https://qiita.com/kaizen_nagoya/items/749043f4f8ae026ec5e5
+
+「量子アニーリングの基礎」を読む 第3日 https://qiita.com/kaizen_nagoya/items/3f3d67d841075e8c867a
+
+「量子アニーリングの基礎」を読む 第４日　https://qiita.com/kaizen_nagoya/items/a75e954194de820637a3
